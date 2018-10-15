@@ -5,7 +5,7 @@ In this project we used the Javascript Testing library Jasmine to write tests fo
 The FeedReader is using Ajax to asynchronously load feeds from four sites  
 i)  Udacity Blog  
 ii) CSS Tricks  
-iii)HTML5 Rocks  
+iii)    HTML5 Rocks  
 iv) Linear Digressions  
 
 
@@ -31,12 +31,6 @@ Checks that when the loadFeed completes there is at least a single entry within 
  
 4.New Feed Selection TestSuite:  
 Checks that when loadFeed function runs, content changes
-
-## How to Run tests 
-
-Execute Jasmine Tests by running index.html
-
-
 
 
 

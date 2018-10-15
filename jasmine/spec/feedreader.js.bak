@@ -63,7 +63,7 @@ $(function() {
                 2. each feed name should not be an empty string
                 */
                 expect(feed.name).toBeDefined();
-                expect(feed.name.length).not.toBe(0);
+                expect(feed.url.name).not.toBe(0);
             }
         });        
     });
@@ -166,6 +166,6 @@ $(function() {
 }());
 
 /* 
- References used to make Project
+ References used to make Projec t
  https://goo.gl/7GK7VQ
 */
