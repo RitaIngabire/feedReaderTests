@@ -35,9 +35,3 @@ Checks that when loadFeed function runs, content changes
 ## How to Run tests 
 
 Execute Jasmine Tests by running index.html
-
-
-
-
-
-
